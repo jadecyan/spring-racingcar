@@ -23,7 +23,7 @@ class PlayControllerTest {
 
     @DisplayName("POST PlayController Test")
     @Test
-    public void playControllerTest() throws Exception {
+    public void postPlayTest() throws Exception {
 
         PlayInput playInput = new PlayInput("cyan,jade,bomi", 4);
 
